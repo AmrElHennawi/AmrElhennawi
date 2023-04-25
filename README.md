@@ -1,36 +1,37 @@
-## Hi there 👋
-My name is Amr Khaled Elhennawi, I am 20 years old.
+# <p align="center">Amr Khaled Elhennawi</p>
 
-I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University.
-## - 🌱 I’m currently learning:
+I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University (expected graduation: 2025).
+## - I’m currently learning:
 - SQL Server and MySQL for database management, learning data structures in C++ programming language, and gaining expertise in web development using HTML, CSS, JavaScript, and Django. Additionally, I am also studying software engineering principles utilizing Java.
 
 - Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
 The different between Compiled Language like C++, Java and Interpreted Language like Python.
 
 - How to write efficient algorithms for problem solving
-<!--
-**AmrElhennawi/AmrElhennawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## Programming languages:
+Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-zemWR/view?usp=sharing">my resume</a>
+
+### Programming languages
 
 <p>
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="60" src="https://th.bing.com/th/id/R.9700daf741d5f5b75abf6f7cee2c8be9?rik=%2fdfsBtxTyvR09A&pid=ImgRaw&r=0">
-<img height="60" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+<img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/java.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/python.svg">&nbsp;&nbsp;
 </p>
 
-## - 📫 How to reach me:
+<p>
+<img height="50" src="./icons/programming languages/html5.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/css3.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/javascript.svg">&nbsp;&nbsp;
+</p>
+
+### Databases
+
+<p>
+<img width="100" src="./icons/programming languages/mysql.svg">&nbsp;&nbsp;
+</p>
+
+## - How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/amr-khaled-elhennawi-2a825b23b/">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
   
 </p>
 
-## - ⌨️ Websites that I practise on for problem solving:
+## - Websites that I practise on for problem solving:
 
 <a href="https://codeforces.com/profile/Amr_ElHennawi">
 <img height="60" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
