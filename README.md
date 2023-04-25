@@ -16,37 +16,37 @@ Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-ze
 ### Programming languages
 
 <p>
-    <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;
-    <img height="50" src="./icons/programming languages/java.svg">&nbsp;&nbsp;
-    <img height="50" src="./icons/programming languages/python.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/programming languages/cpp.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/programming languages/java.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/programming languages/python.svg">&nbsp;&nbsp;
 </p>
 
 <p>
-    <img height="50" src="./icons/programming languages/html5.svg">&nbsp;&nbsp;
-    <img height="50" src="./icons/programming languages/css3.svg">&nbsp;&nbsp;
-    <img height="50" src="./icons/programming languages/javascript.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/programming languages/html5.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/programming languages/css3.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/programming languages/javascript.svg">&nbsp;&nbsp;
 </p>
 
 ### Databases
 
 <p>
-    <img width="100" src="./icons/programming languages/mysql.svg">&nbsp;&nbsp;
+    <img width="100" src="./Icons/programming languages/mysql.svg">&nbsp;&nbsp;
 </p>
 
 ## - How to reach me:
 
 <p>
     <a href="https://www.linkedin.com/in/amr-khaled-elhennawi-2a825b23b/">
-        <img height="50" src="./icons/Communication/linkedin.svg">
+        <img height="50" src="./Icons/Communication/linkedin.svg">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100073163053380">
-        <img height="50" src="./icons/Communication/facebook.svg">
+        <img height="50" src="./Icons/Communication/facebook.svg">
     </a>
     <a href="https://t.me/Amr_ElHennawi">
-        <img height="50" src="./icons/Communication/telegram.svg">
+        <img height="50" src="./Icons/Communication/telegram.svg">
     </a>
     <a href="mailto:amr.k.elhennawi@gmail.com">
-        <img height="50" src="./icons/Communication/gmail.svg">
+        <img height="50" src="./Icons/Communication/gmail.svg">
     </a>
   
 </p>
@@ -54,7 +54,7 @@ Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-ze
 ## - Websites that I practise on for problem solving:
 
 <a href="https://codeforces.com/profile/Amr_ElHennawi">
-    <img height="60" src="./icons/Communication/codeforces.svg">
+    <img height="60" src="./Icons/Communication/codeforces.svg">
 </a>
 
 <a href="https://www.hackerrank.com/amr_k_elhennawi">
@@ -62,7 +62,7 @@ Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-ze
 </a>
 
 <a href="https://leetcode.com/Amr_Khaled_ElHennawi/">
-    <img height="60" src="./icons/Communication/leetcode.svg">
+    <img height="60" src="./Icons/Communication/leetcode.svg">
 </a>
 
 </br>
