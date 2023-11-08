@@ -1,15 +1,15 @@
-# <p align="center">Amr Khaled Elhennawi</p>
+# <p align="center">Amr Khaled El-Hennawi</p>
 
-I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University (expected graduation: 2025).
+I am a sophomore in Computer Science and Artificial Intelligence at Cairo University (expected graduation: 2025).
 
 ## - I’m currently learning:
 
-- SQL Server and MySQL for database management, learning data structures in C++ programming language, and gaining expertise in web development using HTML, CSS, JavaScript, and Django. Additionally, I am also studying software engineering principles utilizing Java.
+- SQL Server and MySQL for database management, learning data structures in C++ programming language and gaining expertise in web development using HTML, CSS, JavaScript, and Django. Additionally, I am also studying software engineering principles utilizing Java.
 
-- Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene.
-  The different between Compiled Language like C++, Java and Interpreted Language like Python.
+- Programming concepts such as Structural Programming and OOP using C++ and How the memory works behind the scenes.
+  The difference between Compiled Language like C++, and Java and Interpreted Language like Python.
 
-- How to write efficient algorithms for problem solving
+- How to write efficient algorithms for problem-solving
 
 Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-zemWR/view?usp=sharing">my resume</a>
 
@@ -51,7 +51,7 @@ Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-ze
   
 </p>
 
-## - Websites that I practise on for problem solving:
+## - Websites that I practice on for problem-solving:
 
 <a href="https://codeforces.com/profile/Amr_ElHennawi">
     <img height="60" src="./Icons/Communication/codeforces.svg">
