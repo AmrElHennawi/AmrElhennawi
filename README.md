@@ -1,68 +1,50 @@
 # <p align="center">Amr Khaled El-Hennawi</p>
 
-I am a sophomore in Computer Science and Artificial Intelligence at Cairo University (expected graduation: 2025).
 
-## - I’m currently learning:
+## - About me:
 
-- SQL Server and MySQL for database management, learning data structures in C++ programming language and gaining expertise in web development using HTML, CSS, JavaScript, and Django. Additionally, I am also studying software engineering principles utilizing Java.
+I am a student at the Faculty of Computers and Artificial Intelligence, Cairo University, and a passionate .NET Developer dedicated to creating innovative software solutions. Proficient in C# and .NET with practical experience in ASP.NET MVC, ASP.NET API, Entity Framework and Microsoft sql server. I possess strong problem-solving skills. I am eager to contribute to cutting-edge projects, expand my technical expertise, and seek opportunities to grow and impact the software development field.
 
-- Programming concepts such as Structural Programming and OOP using C++ and How the memory works behind the scenes.
-  The difference between Compiled Language like C++, and Java and Interpreted Language like Python.
-
-- How to write efficient algorithms for problem-solving
-
-Download <a href="https://drive.google.com/file/d/1_vA7NEwbnpnJlx1mfq4lgHn-aH-zemWR/view?usp=sharing">my resume</a>
+Download <a href="https://drive.google.com/file/d/15wrXt-nyFPbnGe6m2S4Ed6ut5zogVsPn/view?usp=sharing">my resume</a>
 
 ### Programming languages
 
 <p>
-    <img height="50" src="./Icons/programming languages/cpp.svg">&nbsp;&nbsp;
-    <img height="50" src="./Icons/programming languages/java.svg">&nbsp;&nbsp;
-    <img height="50" src="./Icons/programming languages/python.svg">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=cpp">&nbsp;&nbsp;    
+    <img height="50" src="https://skillicons.dev/icons?i=java">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=py">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=html">&nbsp;&nbsp;    
+    <img height="50" src="https://skillicons.dev/icons?i=css">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=js">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=cs">&nbsp;&nbsp;
 </p>
 
-<p>
-    <img height="50" src="./Icons/programming languages/html5.svg">&nbsp;&nbsp;
-    <img height="50" src="./Icons/programming languages/css3.svg">&nbsp;&nbsp;
-    <img height="50" src="./Icons/programming languages/javascript.svg">&nbsp;&nbsp;
-</p>
-
-### Databases
+### Tools and Frameworks
 
 <p>
-    <img width="100" src="./Icons/programming languages/mysql.svg">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=dotnet">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=react">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=git">&nbsp;&nbsp;
+    <img height="50" src="https://skillicons.dev/icons?i=docker">&nbsp;&nbsp;
+    <img height="50" src="./Icons/sqlserver.svg">&nbsp;&nbsp;
 </p>
 
 ## - How to reach me:
 
 <p>
-    <a href="https://www.linkedin.com/in/amr-khaled-elhennawi-2a825b23b/">
-        <img height="50" src="./Icons/Communication/linkedin.svg">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100073163053380">
-        <img height="50" src="./Icons/Communication/facebook.svg">
-    </a>
-    <a href="https://t.me/Amr_ElHennawi">
-        <img height="50" src="./Icons/Communication/telegram.svg">
+    <a href="https://www.linkedin.com/in/amr-khaled-elhennawi/">
+        <img height="50" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href="mailto:amr.k.elhennawi@gmail.com">
-        <img height="50" src="./Icons/Communication/gmail.svg">
+        <img height="50" src="https://skillicons.dev/icons?i=gmail">
     </a>
   
 </p>
 
-## - Websites that I practice on for problem-solving:
+## - Codeforces profile:
 
 <a href="https://codeforces.com/profile/Amr_ElHennawi">
     <img height="60" src="./Icons/Communication/codeforces.svg">
-</a>
-
-<a href="https://www.hackerrank.com/amr_k_elhennawi">
-    <img height="60" src="https://th.bing.com/th/id/OIP.v96Iu4uQcA-X8pvdzQhGcwHaHa?w=181&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
-</a>
-
-<a href="https://leetcode.com/Amr_Khaled_ElHennawi/">
-    <img height="60" src="./Icons/Communication/leetcode.svg">
 </a>
 
 </br>
