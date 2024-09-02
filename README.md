@@ -26,7 +26,7 @@ Download <a href="https://drive.google.com/file/d/15wrXt-nyFPbnGe6m2S4Ed6ut5zogV
     <img height="50" src="https://skillicons.dev/icons?i=react">&nbsp;&nbsp;
     <img height="50" src="https://skillicons.dev/icons?i=git">&nbsp;&nbsp;
     <img height="50" src="https://skillicons.dev/icons?i=docker">&nbsp;&nbsp;
-    <img height="50" src="./Icons/sqlserver.svg">&nbsp;&nbsp;
+    <img height="50" src="./Icons/sqlserver.png">&nbsp;&nbsp;
 </p>
 
 ## - How to reach me:
