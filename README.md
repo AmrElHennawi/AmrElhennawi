@@ -44,7 +44,7 @@ Download <a href="https://drive.google.com/file/d/15wrXt-nyFPbnGe6m2S4Ed6ut5zogV
 ## - Codeforces profile:
 
 <a href="https://codeforces.com/profile/Amr_ElHennawi">
-    <img height="60" src="./Icons/Communication/codeforces.svg">
+    <img height="60" src="./Icons/codeforces.svg">
 </a>
 
 </br>
