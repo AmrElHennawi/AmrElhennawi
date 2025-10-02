@@ -75,3 +75,9 @@ I am a student at the **Faculty of Computers and Artificial Intelligence, Cairo 
         <img src="http://github-readme-streak-stats.herokuapp.com?user=AmrElhennawi&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
     </p>
 </div>
+<!-- Snake -->
+<h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
+<div align="center">
+  
+  ![snake gif](https://github.com/you22ef/you22ef/blob/output/github-snake-dark.svg)
+</div>
